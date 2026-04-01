@@ -2,7 +2,7 @@
 
 A fully responsive E-commerce web application developed using modern web technologies. This project demonstrates core frontend development skills along with dynamic data handling.
 
-Live Demo: [Check it out here!] (ecommerce-website-brown-two-67.vercel.app)
+Live Demo:ecommerce-website-brown-two-67.vercel.app
 
 
 
